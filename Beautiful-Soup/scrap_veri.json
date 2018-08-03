@@ -1,0 +1,252 @@
+[
+    {
+        "sira_no": "1",
+        "name": "Multiples of 3 and 5",
+        "solved": "770471"
+    },
+    {
+        "sira_no": "2",
+        "name": "Even Fibonacci numbers",
+        "solved": "618496"
+    },
+    {
+        "sira_no": "3",
+        "name": "Largest prime factor",
+        "solved": "442704"
+    },
+    {
+        "sira_no": "4",
+        "name": "Largest palindrome product",
+        "solved": "393830"
+    },
+    {
+        "sira_no": "5",
+        "name": "Smallest multiple",
+        "solved": "401849"
+    },
+    {
+        "sira_no": "6",
+        "name": "Sum square difference",
+        "solved": "404254"
+    },
+    {
+        "sira_no": "7",
+        "name": "10001st prime",
+        "solved": "345976"
+    },
+    {
+        "sira_no": "8",
+        "name": "Largest product in a series",
+        "solved": "291910"
+    },
+    {
+        "sira_no": "9",
+        "name": "Special Pythagorean triplet",
+        "solved": "294998"
+    },
+    {
+        "sira_no": "10",
+        "name": "Summation of primes",
+        "solved": "270525"
+    },
+    {
+        "sira_no": "11",
+        "name": "Largest product in a grid",
+        "solved": "195893"
+    },
+    {
+        "sira_no": "12",
+        "name": "Highly divisible triangular number",
+        "solved": "183226"
+    },
+    {
+        "sira_no": "13",
+        "name": "Large sum",
+        "solved": "188840"
+    },
+    {
+        "sira_no": "14",
+        "name": "Longest Collatz sequence",
+        "solved": "188468"
+    },
+    {
+        "sira_no": "15",
+        "name": "Lattice paths",
+        "solved": "155728"
+    },
+    {
+        "sira_no": "16",
+        "name": "Power digit sum",
+        "solved": "190527"
+    },
+    {
+        "sira_no": "17",
+        "name": "Number letter counts",
+        "solved": "126661"
+    },
+    {
+        "sira_no": "18",
+        "name": "Maximum path sum I",
+        "solved": "121704"
+    },
+    {
+        "sira_no": "19",
+        "name": "Counting Sundays",
+        "solved": "113106"
+    },
+    {
+        "sira_no": "20",
+        "name": "Factorial digit sum",
+        "solved": "166842"
+    },
+    {
+        "sira_no": "21",
+        "name": "Amicable numbers",
+        "solved": "122178"
+    },
+    {
+        "sira_no": "22",
+        "name": "Names scores",
+        "solved": "112749"
+    },
+    {
+        "sira_no": "23",
+        "name": "Non-abundant sums",
+        "solved": "86675"
+    },
+    {
+        "sira_no": "24",
+        "name": "Lexicographic permutations",
+        "solved": "96313"
+    },
+    {
+        "sira_no": "25",
+        "name": "1000-digit Fibonacci number",
+        "solved": "130346"
+    },
+    {
+        "sira_no": "26",
+        "name": "Reciprocal cycles",
+        "solved": "69872"
+    },
+    {
+        "sira_no": "27",
+        "name": "Quadratic primes",
+        "solved": "73028"
+    },
+    {
+        "sira_no": "28",
+        "name": "Number spiral diagonals",
+        "solved": "91729"
+    },
+    {
+        "sira_no": "29",
+        "name": "Distinct powers",
+        "solved": "87814"
+    },
+    {
+        "sira_no": "30",
+        "name": "Digit fifth powers",
+        "solved": "92009"
+    },
+    {
+        "sira_no": "31",
+        "name": "Coin sums",
+        "solved": "70420"
+    },
+    {
+        "sira_no": "32",
+        "name": "Pandigital products",
+        "solved": "59345"
+    },
+    {
+        "sira_no": "33",
+        "name": "Digit cancelling fractions",
+        "solved": "60065"
+    },
+    {
+        "sira_no": "34",
+        "name": "Digit factorials",
+        "solved": "79028"
+    },
+    {
+        "sira_no": "35",
+        "name": "Circular primes",
+        "solved": "71292"
+    },
+    {
+        "sira_no": "36",
+        "name": "Double-base palindromes",
+        "solved": "75094"
+    },
+    {
+        "sira_no": "37",
+        "name": "Truncatable primes",
+        "solved": "61707"
+    },
+    {
+        "sira_no": "38",
+        "name": "Pandigital multiples",
+        "solved": "52548"
+    },
+    {
+        "sira_no": "39",
+        "name": "Integer right triangles",
+        "solved": "61153"
+    },
+    {
+        "sira_no": "40",
+        "name": "Champernowne's constant",
+        "solved": "67315"
+    },
+    {
+        "sira_no": "41",
+        "name": "Pandigital prime",
+        "solved": "56902"
+    },
+    {
+        "sira_no": "42",
+        "name": "Coded triangle numbers",
+        "solved": "62824"
+    },
+    {
+        "sira_no": "43",
+        "name": "Sub-string divisibility",
+        "solved": "49668"
+    },
+    {
+        "sira_no": "44",
+        "name": "Pentagon numbers",
+        "solved": "48256"
+    },
+    {
+        "sira_no": "45",
+        "name": "Triangular, pentagonal, and hexagonal",
+        "solved": "59808"
+    },
+    {
+        "sira_no": "46",
+        "name": "Goldbach's other conjecture",
+        "solved": "51051"
+    },
+    {
+        "sira_no": "47",
+        "name": "Distinct primes factors",
+        "solved": "48205"
+    },
+    {
+        "sira_no": "48",
+        "name": "Self powers",
+        "solved": "95749"
+    },
+    {
+        "sira_no": "49",
+        "name": "Prime permutations",
+        "solved": "48216"
+    },
+    {
+        "sira_no": "50",
+        "name": "Consecutive prime sum",
+        "solved": "51900"
+    }
+]
